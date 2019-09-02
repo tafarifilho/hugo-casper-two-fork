@@ -1,5 +1,5 @@
 baseurl         = "/"
-theme           = "casper-two"
+theme           = "casper-two-fork"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
@@ -18,8 +18,9 @@ canonifyurls    = true
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
   fbName = "fakeghost"
+  igName = "instagramghost"
+  twitterName = "faketryghost"
   githubName = "eueung"
   linkedinName = "eueung"
   mediumName = ""
