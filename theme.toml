@@ -1,15 +1,15 @@
-name = "Casper Two"
+name = "Casper Two Fork"
 license = "MIT"
-licenselink = "https://github.com/eueung/hugo-casper-two/blob/master/LICENSE.md"
-description = "Port of Casper 2.x from Ghost Foundation"
-homepage = "https://github.com/eueung/hugo-casper-two"
+licenselink = "https://github.com/tafarifilho/hugo-casper-two-fork/blob/master/LICENSE.md"
+description = "A Fork to a Port of Casper 2.x from Ghost Foundation"
+homepage = "https://github.com/tafarifilho/hugo-casper-two-fork"
 tags = ["blog","pages","ghost theme"]
 features = ["disqus", "google analytics"]
-min_version=0.31
+min_version=0.55
 
 [author]
-  name = "Eueung Mulyana"
-  homepage = "https://www.telematika.org/"
+  name = "Antonio Carlos Tafari Filho"
+  homepage = "https://www.smop.company/"
 
 [original]
   name = "Casper"
